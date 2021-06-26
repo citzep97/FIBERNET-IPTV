@@ -95,7 +95,7 @@ http://192.168.99.98:8000/play/a023/index.m3u8
 http://192.168.99.98:8000/play/a04p/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/TNT_SERIES.png",TNT Series HD
 http://192.168.99.98:8000/play/a068/index.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/TELEMUNDO_%20INTERNACIONAL.jpg",Telemundo HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/TELEMUNDO_INTERNACIONAL.jpg",Telemundo HD
 http://192.168.99.98:8000/play/a029/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/WARNER.jpg",WARNER HD
 http://192.168.99.98:8000/play/a04j/index.m3u8
