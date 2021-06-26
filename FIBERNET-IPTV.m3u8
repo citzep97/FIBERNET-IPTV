@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/A&E.jpg",A&E HD
 http://192.168.99.98:8000/play/a0dg/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\AMC.jpg",AMC HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/AMC.jpg",AMC HD
 http://192.168.99.98:8000/play/a028/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\AXN.jpg",AXN HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/AXN.jpg",AXN HD
 http://192.168.99.98:8000/play/a060/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ANIMAL_PLANET.jpg",Animal Planet HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/ANIMAL_PLANET.jpg",Animal Planet HD
 http://192.168.99.98:8000/play/a024/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CARTOON_NETWORK.jpg" audio-track="spa",CARTOON NT HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CARTOON_NETWORK.jpg" audio-track="spa",CARTOON NT HD
 http://192.168.99.98:8000/play/a0cy/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CNN_ESPANOL.jpg",CNN Internacional
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CNN_ESPANOL.jpg",CNN Internacional
 http://192.168.99.98:8000/play/a00s/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CANAL3.png",Canal 3 - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CANAL3.png",Canal 3 - GUA
 http://192.168.99.98:8000/play/a03q/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\canal_antigua.png",Canal Antigua - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/canal_antigua.png",Canal Antigua - GUA
 http://192.168.99.98:8000/play/a03n/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\azteca_guatema.png",Canal Azteca - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/azteca_guatema.png",Canal Azteca - GUA
 http://192.168.99.98:8000/play/a03o/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\COMEDY_CENTRAL.jpg",Comedy Central HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/COMEDY_CENTRAL.jpg",Comedy Central HD
 http://192.168.99.98:8000/play/a04t/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CONCERT_CHANNEL.png",Concert Channel
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CONCERT_CHANNEL.png",Concert Channel
 http://192.168.99.98:8000/play/a05i/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_THEATER.jpg",DISCOVERY THEATHER HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/DISCOVERY_THEATER.jpg",DISCOVERY THEATHER HD
 http://192.168.99.98:8000/play/a04q/index.m3u8
-#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_CHANNEL.jpg",Discovery Channel HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/DISCOVERY_CHANNEL.jpg",Discovery Channel HD
 http://192.168.99.98:8000/play/a069/index.m3u8
 #EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_INVESTIGATION.jpg",Discovery ID HD
 http://192.168.99.98:8000/play/a06e/index.m3u8
