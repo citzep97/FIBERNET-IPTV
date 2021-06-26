@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\A&E.jpg",A&E HD
+http://192.168.99.98:8000/play/a0dg/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\AMC.jpg",AMC HD
+http://192.168.99.98:8000/play/a028/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\AXN.jpg",AXN HD
+http://192.168.99.98:8000/play/a060/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ANIMAL_PLANET.jpg",Animal Planet HD
+http://192.168.99.98:8000/play/a024/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CARTOON_NETWORK.jpg" audio-track="spa",CARTOON NT HD
+http://192.168.99.98:8000/play/a0cy/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CNN_ESPANOL.jpg",CNN Internacional
+http://192.168.99.98:8000/play/a00s/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CANAL3.png",Canal 3 - GUA
+http://192.168.99.98:8000/play/a03q/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\canal_antigua.png",Canal Antigua - GUA
+http://192.168.99.98:8000/play/a03n/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\azteca_guatema.png",Canal Azteca - GUA
+http://192.168.99.98:8000/play/a03o/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\COMEDY_CENTRAL.jpg",Comedy Central HD
+http://192.168.99.98:8000/play/a04t/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\CONCERT_CHANNEL.png",Concert Channel
+http://192.168.99.98:8000/play/a05i/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_THEATER.jpg",DISCOVERY THEATHER HD
+http://192.168.99.98:8000/play/a04q/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_CHANNEL.jpg",Discovery Channel HD
+http://192.168.99.98:8000/play/a069/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_INVESTIGATION.jpg",Discovery ID HD
+http://192.168.99.98:8000/play/a06e/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_KIDS.jpg",Discovery Kids HD
+http://192.168.99.98:8000/play/a06a/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_WORLD.jpg",Discovery World HD
+http://192.168.99.98:8000/play/a06b/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\E!.jpg",E! Entertairment HD
+http://192.168.99.98:8000/play/a025/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ESPN+.jpg",ESPN  +
+http://192.168.99.98:8000/play/a020/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ESPN2.jpg",ESPN 2 HD
+http://192.168.99.98:8000/play/a064/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ESPN3.jpg",ESPN 3 HD
+http://192.168.99.98:8000/play/a063/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\ESPN.jpg",ESPN HD
+http://192.168.99.98:8000/play/a062/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_SPORTS2.jpg",FOX SPORTS 2 HD
+http://192.168.99.98:8000/play/a04o/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_SPORTS3.jpg",FOX SPORTS 3 HD
+http://192.168.99.98:8000/play/a065/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_SPORTS.jpg",Fox Sports  HD
+http://192.168.99.98:8000/play/a05z/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\GUATEVISION.jpg",Guatevision - GUA
+http://192.168.99.98:8000/play/a011/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HBO_FAMILY.jpg",HBO Family HD
+http://192.168.99.98:8000/play/a0d2/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HBO.jpg",HBO HD
+http://192.168.99.98:8000/play/a0cz/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HBO_PLUS.jpg",HBO Plus HD
+http://192.168.99.98:8000/play/a0d1/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HBO_XTREAME.jpg",HBO XTREME
+http://192.168.99.98:8000/play/a0d3/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HBO_2.jpg",HBO2 HD
+http://192.168.99.98:8000/play/a0d0/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\HISTORY_CHANNEL.jpg",History HD
+http://192.168.99.98:8000/play/a01z/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\DISCOVERY_HOME_HEALTH.jpg",Home & Health HD
+http://192.168.99.98:8000/play/a04r/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\MTV.png",MTV HD
+http://192.168.99.98:8000/play/a021/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\NATIONAL_GEOGRAPHIC.jpg",Nat Geo HD
+http://192.168.99.98:8000/play/a066/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\nick2.png",Nick 2 HD
+http://192.168.99.98:8000/play/a04m/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\PARAMOUNT.jpeg",Paramount HD
+http://192.168.99.98:8000/play/a067/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\PASIONES.png",Pasiones HD
+http://192.168.99.98:8000/play/a06c/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\SONY.jpg",SONY HD
+http://192.168.99.98:8000/play/a04k/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\SPACE_HD.jpg",SPACE HD
+http://192.168.99.98:8000/play/a061/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_PREMIUN_ACTION.jpg",STAR ACTION HD
+http://192.168.99.98:8000/play/a04y/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX.png",STAR CHANNEL HD
+http://192.168.99.98:8000/play/a04i/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_PREMIUM_COMEDY.jpg",STAR COMEDY HD
+http://192.168.99.98:8000/play/a06f/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_PREMIUN_MOVIES.jpg",STAR HITS HD
+http://192.168.99.98:8000/play/a04x/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\FOX_PREMIUM_SERIES.jpg",STAR SERIES HD
+http://192.168.99.98:8000/play/a04w/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\STUDIO_UNIVERSAL.jpg",Studio Universal HD
+http://192.168.99.98:8000/play/a022/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\syfy.png",SyFy HD
+http://192.168.99.98:8000/play/a023/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\TNT.png",TNT HD
+http://192.168.99.98:8000/play/a04p/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\TNT_SERIES.png",TNT Series HD
+http://192.168.99.98:8000/play/a068/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\telemundo_telenovelas.PNG",Telemundo HD
+http://192.168.99.98:8000/play/a029/index.m3u8
+#EXTINF:-1,tvg-logo="D:\MULTIMEDIA\IPTV\LOGOS\WARNER.jpg",WARNER HD
+http://192.168.99.98:8000/play/a04j/index.m3u8
