@@ -9,7 +9,7 @@ http://192.168.99.98:8000/play/a060/index.m3u8
 http://192.168.99.98:8000/play/a024/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CARTOON_NETWORK.jpg" audio-track="spa",CARTOON NT HD
 http://192.168.99.98:8000/play/a0cy/index.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CNN_ESPANOL.jpg",CNN Internacional
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CNN_ESPANOL.jpg",CNN Español
 http://192.168.99.98:8000/play/a01u/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/CANAL3.png",Canal 3 - GUA
 http://192.168.99.98:8000/play/a03q/index.m3u8
